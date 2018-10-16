@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.btn_custom {	
+	color: black;
+	padding: 15px;
+}
+
+.btn_custom:hover {
+	color: black;
+	outline: none;
+	text-decoration: none;
+	background-color: rgb(238, 238, 238);
+}
+
+.link-as-button {
+	color: black;
+	padding: 15px;
+	background-color: rgb(221, 221, 221);
+}
+.link-as-button:hover {
+	color: black;
+	outline: none;
+	text-decoration: none;
+	background-color: rgb(238, 238, 238);
+}
+.error {
+	font-size: 15px;
+	color: red;
+}
+
+table tbody tr:hover {
+	cursor:pointer;
+	background-color: rgb(238, 238, 238);
+}
+a {
+	color: black;
+}
+a:hover {
+	background-color: white;
+	color: black;
+}
+
+
